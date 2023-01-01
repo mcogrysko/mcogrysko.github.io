@@ -2,14 +2,14 @@
 
 ---
 
-### Data Science Final Project - Fall 2022/Spring 2023 - Loyola Maryland
+### Data Science Final Project - Fall 2022/Spring 2023<br>Loyola Maryland
 
 - [Predicting MLB Player Performance (In progress)](https://github.com/mcogrysko/DataScience-FinalProject)
 
 
 ---
 
-### Information Retrieval and Natural Language Processing - Fall 2022 - Loyola Maryland
+### Information Retrieval and Natural Language Processing - Fall 2022<br>Loyola Maryland
 
 - [Sentiment Analysis 1 (Python)](https://github.com/mcogrysko/NLP-Sentiments)
 - [Sentiment Analysis 2 (Python)](https://github.com/mcogrysko/NLP-SentimentAnalysis)
@@ -20,19 +20,19 @@
 
 ---
 
-### Linear Statistical Models - Fall 2022 - Loyola Maryland
+### Linear Statistical Models - Fall 2022<br>Loyola Maryland
 
 - [Multiple Linear Regression (R)](https://github.com/mcogrysko/LinearStatModels-MultipleLinearRegression)
 
 ---
 
-### Multivariate Analysis - Summer 2022 - Loyola Maryland
+### Multivariate Analysis - Summer 2022 <br>Loyola Maryland
 
 - [Tree-Based Models (R)](https://github.com/mcogrysko/MultivariateAnalysis-Tree-BasedModels)
 
 ---
 
-### Machine Learning - Spring 2022 - Loyola Maryland
+### Machine Learning - Spring 2022<br>Loyola Maryland
 
 - [Titanic Survivor Classification (Python)](https://github.com/mcogrysko/ML-TitanicClassification)
 - [Unsupervised Learning (Python)](https://github.com/mcogrysko/ML-UnsupervisedLearning)
@@ -42,7 +42,7 @@
 
 ---
 
-### Data Structures - Fall 2020 - JHU
+### Data Structures - Fall 2020<br>JHU
 
 - [Number of Nodes - Recursion (Java)](https://github.com/mcogrysko/DataStructures-NumNodes-Recursion)
 - [Number of Nodes - Link Allocation (Java)](https://github.com/mcogrysko/DataStructures-NumNodes-LinkAllocation)
