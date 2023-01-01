@@ -2,28 +2,51 @@
 
 ---
 
-### Category Name 1 
+### Data Science Final Project - Fall 2022/Spring 2023 - Loyola Maryland
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [Predicting MLB Player Performance (In progress)](https://github.com/mcogrysko/DataScience-FinalProject)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Information Retrieval and Natural Language Processing - Fall 2022 - Loyola Maryland
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Sentiment Analysis 1 (Python)](https://github.com/mcogrysko/NLP-Sentiments)
+- [Sentiment Analysis 2 (Python)](https://github.com/mcogrysko/NLP-SentimentAnalysis)
+- [Sentiment Analysis 3 (Python)](https://github.com/mcogrysko/NLP-SentimentAnalysisOpinionLexicon)
+- [Supervised Learning (Python)](https://github.com/mcogrysko/NLP-SupervisedLearning)
+- [PyTorch Feedforward Neural Network (Python)](https://github.com/mcogrysko/NLP-PyTorchFeedforwardNN)
+- [PyTorch Recurrent Neural Network (Python)](https://github.com/mcogrysko/NLP-PyTorchRNN)
+
+---
+
+### Linear Statistical Models - Fall 2022 - Loyola Maryland
+
+- [Multiple Linear Regression (R)](https://github.com/mcogrysko/LinearStatModels-MultipleLinearRegression)
+
+---
+
+### Multivariate Analysis - Summer 2022 - Loyola Maryland
+
+- [Tree-Based Models (R)](https://github.com/mcogrysko/MultivariateAnalysis-Tree-BasedModels)
+
+---
+
+### Machine Learning - Spring 2022 - Loyola Maryland
+
+- [Titanic Survivor Classification (Python)](https://github.com/mcogrysko/ML-TitanicClassification)
+- [Unsupervised Learning (Python)](https://github.com/mcogrysko/ML-UnsupervisedLearning)
+- [Multilayer Perceptron (Python)](https://github.com/mcogrysko/ML-MultilayerPerceptron)
+- [PyTorch (Python)](https://github.com/mcogrysko/ML-PyTorch)
+- [TensorFlow (Python)](https://github.com/mcogrysko/ML-TensorFlow)
+
+---
+
+### Data Structures - Fall 2020 - JHU
+
+- [Number of Nodes - Recursion (Java)](https://github.com/mcogrysko/DataStructures-NumNodes-Recursion)
+- [Number of Nodes - Link Allocation (Java)](https://github.com/mcogrysko/DataStructures-NumNodes-LinkAllocation)
+- [Sorting (Java)](https://github.com/mcogrysko/DataStructures-Sorting)
 
 ---
 
