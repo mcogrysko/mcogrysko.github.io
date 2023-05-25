@@ -4,8 +4,15 @@
 
 ### Data Science Final Project<br>Fall 2022/Spring 2023 Loyola Maryland
 
-- [Predicting MLB Player Performance (In progress)](https://github.com/mcogrysko/DataScience-FinalProject)
+- [Predicting MLB Player Performance](https://github.com/mcogrysko/DataScience-FinalProject)
 
+---
+
+### Data Visualization for Decision Making<br>Spring 2023 Loyola Maryland
+
+- [R Visualizations - 2022 FIFA World Cup](https://github.com/mcogrysko/DataVisualization-R)
+- [Python Visualizations - Baltimore City Major Crime Data](https://github.com/mcogrysko/DataVisualization-Python)
+- [Tableau Visualizations - 2022 MLB Season Summary and Analysis](https://github.com/mcogrysko/DataVisualization-Tableau)
 
 ---
 
@@ -47,11 +54,6 @@
 - [Number of Nodes - Recursion (Java)](https://github.com/mcogrysko/DataStructures-NumNodes-Recursion)
 - [Number of Nodes - Link Allocation (Java)](https://github.com/mcogrysko/DataStructures-NumNodes-LinkAllocation)
 - [Sorting (Java)](https://github.com/mcogrysko/DataStructures-Sorting)
-
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
