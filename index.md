@@ -54,7 +54,3 @@
 - [Number of Nodes - Recursion (Java)](https://github.com/mcogrysko/DataStructures-NumNodes-Recursion)
 - [Number of Nodes - Link Allocation (Java)](https://github.com/mcogrysko/DataStructures-NumNodes-LinkAllocation)
 - [Sorting (Java)](https://github.com/mcogrysko/DataStructures-Sorting)
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
