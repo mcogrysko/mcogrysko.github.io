@@ -49,7 +49,7 @@
 
 ---
 
-### Data Structures<br>Fall 2020 JHU
+### Data Structures<br>Fall 2020 Johns Hopkins University
 
 - [Number of Nodes - Recursion (Java)](https://github.com/mcogrysko/DataStructures-NumNodes-Recursion)
 - [Number of Nodes - Link Allocation (Java)](https://github.com/mcogrysko/DataStructures-NumNodes-LinkAllocation)
