@@ -1,0 +1,5 @@
+social-preview.png
+1200 x 630 PNG, composed for AI Case Studies social sharing.
+Original typography and layout in the portfolio navy, indigo, cyan, and near-white palette.
+Product panel uses the real ai-opportunity-navigator/portfolio-card.webp capture, scaled and clipped to fit. No product UI was generated or altered.
+Underlying capture and crop provenance: ai-opportunity-navigator/SOURCES.txt (full_page_screenshot (67).png).

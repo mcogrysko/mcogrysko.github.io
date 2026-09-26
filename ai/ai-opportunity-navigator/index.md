@@ -3,8 +3,14 @@ layout: ai-case-study
 title: AI Opportunity Navigator
 subtitle: Enterprise AI opportunity assessment, governance, and portfolio decisioning
 card_subtitle: Enterprise AI Portfolio & Governance
-description: An independent applied AI project connecting structured assessment, transparent portfolio rules, governance, and human decision authority.
+description: "Case study: designing and building an enterprise operating model for assessing, governing, prioritizing, and advancing AI opportunities."
 summary: A working platform for assessing, governing, prioritizing, and managing AI opportunities from business intake through lifecycle execution.
+canonical_url: https://mcogrysko.github.io/ai/ai-opportunity-navigator/
+image:
+  path: https://mcogrysko.github.io/assets/images/ai/social-preview.png
+  width: 1200
+  height: 630
+  alt: AI Case Studies by Mike Ogrysko — technology enablement, AI governance, and digital transformation, alongside the AI Opportunity Navigator portfolio
 permalink: /ai/ai-opportunity-navigator/
 ai_case_study: true
 featured: true
