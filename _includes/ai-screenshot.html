@@ -1,0 +1,7 @@
+{% assign screenshot = include.image %}
+<figure class="case-screenshot">
+  <a class="screenshot-link" href="{{ screenshot.src | relative_url }}" aria-label="Open full-size image: {{ screenshot.alt | escape }}">
+    <img src="{{ screenshot.src | relative_url }}" alt="{{ screenshot.alt | escape }}" width="{{ screenshot.width }}" height="{{ screenshot.height }}" loading="lazy" decoding="async">
+  </a>
+  <figcaption><span>{{ screenshot.caption | escape }}</span><a href="{{ screenshot.src | relative_url }}">Open full-size image <span aria-hidden="true">↗</span></a></figcaption>
+</figure>

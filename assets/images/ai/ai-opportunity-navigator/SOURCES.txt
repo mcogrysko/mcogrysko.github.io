@@ -1,0 +1,35 @@
+Screenshot provenance — AI Opportunity Navigator
+
+Real application screenshots; only cropping, resizing, and WebP compression were applied.
+Original captures were supplied locally as full_page_screenshot PNG files.
+Coordinates are (left, top, right, bottom) in original pixels.
+
+portfolio-card.webp
+Source: full_page_screenshot (67).png
+Crop: [440, 180, 2764, 2240]
+Output: 1400 x 1241 pixels; WebP quality 92
+
+opportunity-portfolio.webp
+Source: full_page_screenshot (67).png
+Crop: [430, 155, 2774, 2960]
+Output: 2344 x 2805 pixels; WebP quality 92
+
+product-methodology.webp
+Source: full_page_screenshot (70).png
+Crop: [430, 155, 2774, 2035]
+Output: 2344 x 1880 pixels; WebP quality 92
+
+policy-assessment.webp
+Source: full_page_screenshot (50).png
+Crop: [430, 260, 2774, 2070]
+Output: 2344 x 1810 pixels; WebP quality 92
+
+portfolio-intelligence.webp
+Source: full_page_screenshot (71).png
+Crop: [430, 155, 2774, 2980]
+Output: 2344 x 2825 pixels; WebP quality 92
+
+policy-operating-record.webp
+Source: full_page_screenshot (73).png
+Crop: none; complete supplied capture retained
+Output: 2416 x 5006 pixels; WebP quality 92

@@ -1,0 +1,29 @@
+---
+layout: ai
+---
+<article class="container case-study">
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="{{ '/ai/' | relative_url }}"><span aria-hidden="true">←</span> All AI Case Studies</a>
+  </nav>
+  <header class="case-study-header">
+    <p class="eyebrow">Applied AI / Case study</p>
+    <h1>{{ page.title | escape }}</h1>
+    <p class="case-study-subtitle">{{ page.subtitle | escape }}</p>
+    {% if page.project_role %}
+    <dl class="project-facts">
+      <div class="project-role"><dt>Role</dt><dd>{{ page.project_role | escape }}</dd></div>
+      <div><dt>Technology</dt><dd>{{ page.technology | escape }}</dd></div>
+      <div><dt>Status</dt><dd>{{ page.project_status | escape }}</dd></div>
+    </dl>
+    {% endif %}
+  </header>
+  {% if page.hero_image %}{% include ai-screenshot.html image=page.hero_image %}{% endif %}
+  <div class="case-study-body">
+    {{ content }}
+  </div>
+  <nav class="project-footer" aria-label="Project links">
+    <a href="{{ '/ai/' | relative_url }}"><span aria-hidden="true">←</span> Back to AI Case Studies</a>
+    {% if page.repository_url %}<a href="{{ page.repository_url | escape }}">View project on GitHub <span aria-hidden="true">↗</span></a>{% endif %}
+    {% if page.demo_url %}<a href="{{ page.demo_url | escape }}">{{ page.demo_label | escape }}</a>{% endif %}
+  </nav>
+</article>

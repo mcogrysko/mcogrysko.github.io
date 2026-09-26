@@ -1,0 +1,11 @@
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+    <nav class="primary-nav" aria-label="Main">
+      <a class="nav-current" href="{{ '/ai/' | relative_url }}" {% if page.url == '/ai/' %}aria-current="page"{% else %}aria-current="true"{% endif %}>AI Case Studies</a>
+      <a href="{{ '/' | relative_url }}">Data Science Portfolio</a>
+      <a href="https://www.linkedin.com/in/ogrysko/">LinkedIn</a>
+      <a href="{{ site.github.owner_url | default: 'https://github.com/mcogrysko' }}">GitHub</a>
+    </nav>
+  </div>
+</header>
