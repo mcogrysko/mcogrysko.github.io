@@ -1,0 +1,51 @@
+---
+layout: ai
+title: AI Case Studies
+description: Applied AI case studies focused on technology enablement, digital transformation, governance, operating models, and enterprise implementation.
+canonical_url: https://mcogrysko.github.io/ai/
+image:
+  path: https://mcogrysko.github.io/assets/images/ai/social-preview.png
+  width: 1200
+  height: 630
+  alt: AI Case Studies by Mike Ogrysko — technology enablement, AI governance, and digital transformation, alongside the AI Opportunity Navigator portfolio
+permalink: /ai/
+---
+<section class="hero container" aria-labelledby="portfolio-title">
+  <p class="eyebrow"><span class="eyebrow-mark" aria-hidden="true"></span>Applied AI Portfolio</p>
+  <h1 id="portfolio-title">AI Case Studies</h1>
+  <p class="hero-statement">Turning emerging AI capabilities into <span>practical enterprise solutions.</span></p>
+  <p class="hero-description">A portfolio of applied AI projects focused on technology enablement, digital transformation, governance, operating models, and implementation—not simply model development.</p>
+  <ul class="hero-capabilities" aria-label="Portfolio capabilities">
+    <li>Opportunity Strategy</li>
+    <li>AI Governance</li>
+    <li>Solution Design</li>
+    <li>Human-in-the-Loop Decisioning</li>
+    <li>Enterprise Adoption</li>
+  </ul>
+</section>
+
+<section class="approach-band" aria-labelledby="approach-title">
+  <div class="container approach-inner">
+    <div>
+      <p class="eyebrow">The perspective</p>
+      <h2 id="approach-title">Beyond the model.</h2>
+    </div>
+    <p>Organizations need more than access to AI models. They need to identify the right opportunities, choose appropriate solution patterns, and establish governance and decision rights. These projects explore how to integrate those capabilities into operating models and move from experimentation to accountable execution.</p>
+  </div>
+</section>
+
+<section class="container projects-section" aria-labelledby="projects-title">
+  <div class="section-heading">
+    <div>
+      <p class="eyebrow">Strategy into practice</p>
+      <h2 id="projects-title">Selected work</h2>
+    </div>
+    <p>Applied AI. Enterprise context.</p>
+  </div>
+  <div class="project-list">
+    {% assign case_studies = site.pages | where: 'ai_case_study', true | sort: 'display_order' %}
+    {% for project in case_studies %}
+      {% include ai-project-card.html project=project %}
+    {% endfor %}
+  </div>
+</section>

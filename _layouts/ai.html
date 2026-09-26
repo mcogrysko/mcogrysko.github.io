@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <meta name="theme-color" content="#f6f8fc">
+    <link rel="stylesheet" href="{{ '/assets/css/ai.css' | relative_url }}">
+  </head>
+  <body class="ai-site">
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    {% include ai-nav.html %}
+    <main id="main-content" tabindex="-1">
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <a class="footer-name" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+        <nav aria-label="Footer">
+          <a href="{{ '/' | relative_url }}">Data Science Portfolio</a>
+          <a href="https://www.linkedin.com/in/ogrysko/">LinkedIn</a>
+          <a href="{{ site.github.owner_url | default: 'https://github.com/mcogrysko' }}">GitHub</a>
+        </nav>
+      </div>
+    </footer>
+  </body>
+</html>

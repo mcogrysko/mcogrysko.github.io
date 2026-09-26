@@ -1,5 +1,37 @@
 ## Developer Portfolio Landing Page Template
 
+### AI Case Studies
+
+The `/ai/` section uses its own layouts and `assets/css/ai.css`. The existing
+Data Science portfolio keeps its Minimal theme and root URL.
+
+To add a case study, create `ai/<project-slug>/index.md` using the Navigator
+page's front matter as a reference. Set `layout: ai-case-study`,
+`ai_case_study: true`, a unique numeric `display_order`, and an explicit
+`permalink: /ai/<project-slug>/`. Provide `title`, `subtitle`, `card_subtitle`,
+`summary`, `description`, and a `demonstrates` list. Set `featured: false`
+unless the project should carry the featured label. The landing page discovers
+these pages automatically and renders `_includes/ai-project-card.html`.
+
+Place product screenshots in `assets/images/ai/<project-slug>/`, set `thumbnail`
+to the site-root asset path, and supply meaningful `thumbnail_alt` text. Provide a real product screenshot and alt text for each published case study.
+
+Case-study prose is limited to a 780px reading width; screenshots can use the
+full page grid. Image metadata (`src`, `alt`, `width`, `height`, and `caption`)
+feeds `_includes/ai-screenshot.html`. Images link to their full-size files.
+The project footer accepts an optional `repository_url` for a public repository
+and `demo_url` / `demo_label` when demo access expectations are clear.
+
+The portfolio uses real application captures, cropped and compressed to WebP. No
+application UI has been fabricated. Screenshot provenance and crop coordinates
+are documented in `assets/images/ai/ai-opportunity-navigator/SOURCES.txt`.
+
+Validate with the existing GitHub Pages/Jekyll environment when available.
+Check `/`, `/ai/`, and direct access to each case-study URL; check internal
+links and images, keyboard navigation, and desktop/mobile layouts. Keep local
+build output and review screenshots outside the repository. No Node build step
+or additional Jekyll plugin is required by this section.
+
 ### Introduction
 
 Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
